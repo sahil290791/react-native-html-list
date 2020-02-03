@@ -1,0 +1,16 @@
+{
+  "name": "react-native-html-list",
+  "version": "1.0.0",
+  "description": "Ordered/Unordered Lists similar to UL/OL in HTML",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "unordered list",
+    "ordered list",
+    "react-native ordered list",
+  ],
+  "author": "sahilprjpt206@gmail.com",
+  "license": "ISC"
+}
